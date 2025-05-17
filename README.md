@@ -3,9 +3,9 @@
 A mobile number puzzle game built with React Native and Expo. NumberWiz challenges players to combine numbered tiles strategically to reach target values.
 
 
+![Screenshot_20250515-212710](https://github.com/user-attachments/assets/4f4680ca-3cf4-4739-8275-f28ea5e94116)
 ![Screenshot_20250515-212718](https://github.com/user-attachments/assets/fdde4984-5960-4f9b-8d35-3d425699e143)
 ![Screenshot_20250515-212811](https://github.com/user-attachments/assets/ec453b10-a4e1-420d-9611-6cc43d9293e4)
-![Screenshot_20250515-212710](https://github.com/user-attachments/assets/4f4680ca-3cf4-4739-8275-f28ea5e94116)
 
 
 ## Features
