@@ -90,6 +90,7 @@ export default function TabTwoScreen() {
               component provides a parallax effect for the header image.
             </ThemedText>
           ),
+          default: null,
         })}
       </Collapsible>
     </ParallaxScrollView>

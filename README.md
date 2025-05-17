@@ -1,33 +1,55 @@
-# Welcome to your Expo app 👋
+# NumberWiz
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile number puzzle game built with React Native and Expo. NumberWiz challenges players to combine numbered tiles strategically to reach target values.
 
-## Get started
+## Features
 
-1. Install dependencies
+- Sleek, modern UI with fluid animations
+- Progressive difficulty levels
+- Score tracking and personal bests
+- Intuitive swipe controls
+- Vibrant, accessible design
 
+## Technologies Used
+
+- React Native
+- Expo
+- React Navigation
+- Animated API for smooth animations
+- React Hooks for state management
+- TypeScript for type safety
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 14.0 or later
+- npm or yarn
+- Expo CLI
+
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/krishnakanth6143/NumberWiz.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd NumberWiz
+   ```
+
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+4. Start the development server:
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+5. Open the app on your device by scanning the QR code with the Expo Go app, or run on a simulator.
 
 ```bash
 npm run reset-project

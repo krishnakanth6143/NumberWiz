@@ -30,6 +30,7 @@ export default function HomeScreen() {
               ios: 'cmd + d',
               android: 'cmd + m',
               web: 'F12',
+              default: 'menu button',
             })}
           </ThemedText>{' '}
           to open developer tools.
